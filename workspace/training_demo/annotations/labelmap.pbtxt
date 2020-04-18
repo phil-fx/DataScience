@@ -1,0 +1,14 @@
+item {
+      id: 1
+      name: 'Glue-Stick'
+}
+
+item {
+      id: 2
+      name: 'Avocado'
+}
+
+item {
+      id: 3
+      name: 'Horse-Toy'
+}

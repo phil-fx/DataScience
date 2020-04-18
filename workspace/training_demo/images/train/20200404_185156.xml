@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20200404_185156.jpg</filename>
+	<path>C:\Users\Phil\models\research\object_detection\images\train\20200404_185156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Avocado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>154</ymin>
+			<xmax>513</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

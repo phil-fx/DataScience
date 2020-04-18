@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20200404_185145.jpg</filename>
+	<path>C:\Users\Phil\models\research\object_detection\images\train\20200404_185145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horse-Toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>86</ymin>
+			<xmax>467</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

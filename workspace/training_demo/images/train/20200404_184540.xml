@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20200404_184540.jpg</filename>
+	<path>C:\Users\Phil\models\research\object_detection\images\train\20200404_184540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glue-Stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>24</ymin>
+			<xmax>329</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
